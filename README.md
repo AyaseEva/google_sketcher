@@ -1,4 +1,4 @@
-# Google Sketcher
+# Google Sketcher 111
 
 This repo is dedicated to build a simple yet effective <b>Convolutional Neural Network</b>, train it over the [Google Quick-Draw Dataset](https://github.com/googlecreativelab/quickdraw-dataset), and save it for further usage.
 
